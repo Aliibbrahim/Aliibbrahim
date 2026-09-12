@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there, I'm Ali Ibrahim Turki 👋
+🛡️ Cybersecurity Graduate | 📋 Office Administration Specialist
+[
 
-<!--
-**Aliibbrahim/Aliibbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+](https://linkedin.com/in/ali-turki)
+[
 
-Here are some ideas to get you started:
+](mailto:aliksa1097@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 About Me
+Dedicated Cybersecurity Graduate from King Abdulaziz University with a dual background in Office Administration. Passionate about securing networks, assessing system vulnerabilities, and optimizing administrative workflows.
+
+🎓 Education: Diploma in Cybersecurity & Diploma in Office Administration
+
+📍 Location: Jeddah, Saudi Arabia
+
+🎯 Current Focus: Hands-on penetration testing labs & PowerShell automation
+
+⚡ Fun Fact: Bridging the gap between technical security protocols and business administration
+
+🛠️ Core Competencies & Technologies
+🛡️ Cybersecurity & Systems Administration
+💻 Scripting & Fundamentals
+📊 Office Administration & Operations
+📊 GitHub Stats
+"Security is not a product, but a process."
