@@ -1,103 +1,65 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
-  <a href="https://x.com/apoorv__tyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://linkedin.com/in/apoorvtyagi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="http://discord.com/users/apoorv#4040" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" height="30" style="display:inline-block;" />
-  </a>
-  <a href="https://www.buymeacoffee.com/apoorvtyagi">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/buymeacoffee.svg" height="30" style="display:inline-block;" />
-  </a>
-</p>
+[
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+](https://linkedin.com/in/ali-turki)
+[
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Senior Software Engineer working at PayPay 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write technical articles at [apoorvtyagi.tech](https://apoorvtyagi.tech/)
-- 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **India After Gandhi** by Ramachandra Guha
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
+](mailto:aliksa1097@gmail.com)
+[
 
-<p align="center">
-      <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=java,py,spring,nodejs,git,kubernetes,elasticsearch,azure,aws,docker,mysql,mongodb" />
-      </a>
-</p>
+](https://github.com/Aliibbrahim)
 
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github streak](https://streak-stats.demolab.com?user=apoorvtyagi&theme=dark&mode=weekly)
+About Me:
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2019%20mins-blue?style=flat)
+🛡️ I'm a Cybersecurity Graduate & Office Administration Specialist
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2038%20mins-blue?style=flat)
+🎓 Graduated from King Abdulaziz University (Cybersecurity) & Technical College in Rijal Alma (Office Admin)
 
-**I'm a Night 🦉** 
+📍 Based in Jeddah, Saudi Arabia
 
-```text
-🌞 Morning                205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                425 commits         ███████░░░░░░░░░░░░░░░░░░   27.85 % 
-🌃 Evening                764 commits         █████████████░░░░░░░░░░░░   50.07 % 
-🌙 Night                  132 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-```
-📅 **I'm Most Productive on Sunday** 
+💻 I use daily: PowerShell, Bash, Kali Linux, C, Excel / Google Sheets
 
-```text
-Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Tuesday                  187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
-Thursday                 101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Friday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-Saturday                 291 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Sunday                   462 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
-```
+📖 I am currently learning Advanced Network Penetration Testing & Automation
+
+👯 We can connect on LinkedIn to discuss cybersecurity trends and admin workflows
+
+⚡ Fun fact: I bridge the gap between technical IT security protocols and business office operations
+
+🧑‍💻 Tech I work on :
+
+[
+
+](https://skillicons.dev)
+
+My Github Stats:
+
+I'm Most Active During 🦉 ```text
+🌞 Morning                000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🌆 Daytime                000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🌃 Evening                000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+🌙 Night                  000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+
+📅 **Weekly Activity Overview** ```text
+Monday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   000 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🤖 AI Coding Activity ```text
+Building Cybersecurity Labs & PowerShell Scripts
 
 
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
 
 
-<!--END_SECTION:waka-->
+⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.61% as on ⏰ 2026
+My Projects & Practical Documentation:
 
-⏳ **Year Progress:** { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 69.61% as on ⏰ 12-Sep-2026
+🛡️ Virtualization & Penetration Testing Home Lab: Setting up Kali Linux and Ubuntu environments for security testing.
 
----
+📜 PowerShell System Automation: Writing scripts to optimize system administration tasks and automate repetitive actions.
 
-### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [What is Jib? A Complete Guide to Java Containerization Without Dockerfiles](https://apoorvtyagi.tech/what-is-jib-a-complete-guide-to-java-containerization-without-dockerfiles)
-- [Kafka Consumer Container Restarts in Kubernetes: A Production Case Study](https://apoorvtyagi.tech/kafka-consumer-container-restarts-in-kubernetes-a-production-case-study)
-- [How we solved cache invalidation in Kubernetes with a headless service](https://apoorvtyagi.tech/how-we-solved-cache-invalidation-in-kubernetes-with-a-headless-service)
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://apoorvtyagi.tech/going-vernacular-engineering-our-way-to-process-multilingual-names)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://apoorvtyagi.tech/building-resilient-systems-retry-pattern-in-microservices)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://apoorvtyagi.tech/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway)
-<!-- BLOG-POST-LIST:END -->
+📋 Biometric Access Risk Assessment Study: Analyzing security vulnerabilities and mitigation controls in enterprise environments.
 
-▶ [... view more](https://apoorvtyagi.tech/)
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's a Pinch of Humour:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
-
+A Famous Cybersecurity Quote:
+• *“Security is not a product, but a process.”— Bruce Schneier   *
